@@ -53,7 +53,7 @@
 |+ WAAD Premium            | Preview | 2013/11/21 |     -      |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
-|スケジューラー            | Preview |     -      |     -      |      -     |
+|スケジューラー            | Preview | 2013/12/12 |     -      |      -     |
 |管理ポータル              |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight)         |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
