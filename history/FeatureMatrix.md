@@ -11,17 +11,20 @@
 |+ Web Jobs                | Preview | 2014/01/17 |     -      |      -     |
 |+ VS Online               | Preview | 2013/11/13 |     -      |      -     |
 |+ Staging                 | Preview | 2014/01/17 |     -      |      -     |
+|+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
 |仮想マシン                |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |仮想ネットワーク          |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Site to Site VPN        |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Point to Site VPN       | Preview | 2013/04/27 |     -      |      -     |
 |+ Azure Connect           |  Close  | 2010/11/29 |     -      | 2013/06/30 |
+|ExpressRoute              | Preview | 2014/02/21 |     -      |      -     |
 |SQL データベース          |    GA   | 2009/08/18 | 2010/02/01 |      -     |
 |+ Data Sync               | Preview | 2011/10/14 |     -      |      -     |
 |+ Reporting               |  Close  | 2011/10/14 | 2012/06/08 | 2013/10/31 |
 |+ Premium                 | Preview | 2013/07/23 |     -      |      -     |
 |モバイルサービス          |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ スケジューラー          | Preview | 2013/06/28 |     -      |      -     |
+|+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
 |ストレージ                |    -    |     -      |     -      |      -     |
 |+ Blob                    |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Queue                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
@@ -29,7 +32,8 @@
 |+ Geo-Replication         |    GA   |     ?      | 2011/09/16 |      -     |
 |+ RA-GeoRS                | Preview | 2013/12/13 |     -      |      -     |
 |+ Import/Export           | Preview | 2013/11/04 |     -      |      -     |
-|HD Insight                |    GA   | 2013/03/19 | 2013/10/29 |      -     |
+|HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
+|+ HDInsight 3.0           | Preview | 2014/02/21 |     -      |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |Service Bus               |    -    |     -      |     -      |      -     |
 |+ Queue                   |    GA   |     ?      |     ?      |      -     |
