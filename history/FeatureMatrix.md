@@ -33,7 +33,7 @@
 |+ RA-GeoRS                | Preview | 2013/12/13 |     -      |      -     |
 |+ Import/Export           | Preview | 2013/11/04 |     -      |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
-|+ HDInsight 3.0           | Preview | 2014/02/21 |     -      |      -     |
+|+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |Service Bus               |    -    |     -      |     -      |      -     |
 |+ Queue                   |    GA   |     ?      |     ?      |      -     |
