@@ -1,4 +1,4 @@
-﻿# Windows Azure 機能一覧
+﻿# Microsoft Azure 機能一覧
 
 |       機能               | Status  |  Preview   |     GA     |    Close   |
 |:-------------------------|:-------:|:----------:|:----------:|:----------:|
@@ -7,9 +7,9 @@
 |+ Worker Role             |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ VM Role                 |  Close  | 2010/11/29 |     -      | 2013/05/31 |
 |Webサイト                 |    GA   | 2012/06/08 | 2013/06/28 |      -     |
-|+ Auto Scale              | Preview | 2013/06/28 |     -      |      -     |
+|+ Auto Scale              |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Web Jobs                | Preview | 2014/01/17 |     -      |      -     |
-|+ VS Online               | Preview | 2013/11/13 |     -      |      -     |
+|+ VS Online               |    GA   | 2013/11/13 | 2014/04/03 |      -     |
 |+ Staging                 | Preview | 2014/01/17 |     -      |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
 |仮想マシン                |    GA   | 2012/06/08 | 2013/04/16 |      -     |
@@ -22,6 +22,8 @@
 |+ Data Sync               | Preview | 2011/10/14 |     -      |      -     |
 |+ Reporting               |  Close  | 2011/10/14 | 2012/06/08 | 2013/10/31 |
 |+ Premium                 | Preview | 2013/07/23 |     -      |      -     |
+|+ Self-Service recovery   | Preview |     ?      |     -      |      -     |
+|+ Active geo-replication  | Preview |     ?      |     -      |      -     |
 |モバイルサービス          |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ スケジューラー          | Preview | 2013/06/28 |     -      |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
@@ -50,11 +52,12 @@
 |+ In-Role Cache           |   GA    | 2012/06/08 |     ?      |      -     |
 |+ Cache Service           | Preview | 2013/09/04 |     -      |      -     |
 |CDN                       |    GA   | 2009/11/05 | 2010/05/28 |      -     |
+|New CDN (?)               |    GA   |     ?      | 2014/04/03 |      -     |
 |Active Directory          |    GA   |     -      | 2013/04/09 |      -     |
 |+ ACS v1                  |  Close  | 2009/11/05 |     ?      | 2012/12/20 |
 |+ ACS v2                  |    GA   |     ?      | 2011/04/07 |      -     |
 |+ 多要素認証プロバイダ    |    GA   | 2013/03/05 | 2013/09/26 |      -     |
-|+ WAAD Premium            | Preview | 2013/11/21 |     -      |      -     |
+|+ WAAD Premium            |    GA   | 2013/11/21 | 2014/04/03 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
 |スケジューラー            | Preview | 2013/12/12 |     -      |      -     |
@@ -62,11 +65,14 @@
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight)         |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
 |+ V3(HTML5)               |    GA   | 2012/06/08 |     ?      |      -     |
+|+ V4(Tile)                | Preview | 2014/04/03 |     -      |      -     |
 |アラート                  | Preview | 2013/06/28 |     -      |      -     |
 |課金アラート              | Preview | 2013/11/04 |     -      |      -     |
 |日本データセンター        |    GA   |     -      | 2014/02/26 |      -     |
 |中国データセンター (*1)   |    GA   |     -      | 2014/03/26 |      -     |
+|名称変更(*2)              |         |     -      | 2014/04/03 |      -     |
 
 *1 21Vianetが運営
+*2 Windows Azure から Microsoft Azure
 
 
