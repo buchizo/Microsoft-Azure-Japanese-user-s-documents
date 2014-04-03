@@ -25,14 +25,14 @@
 |+ Self-Service recovery   | Preview |     ?      |     -      |      -     |
 |+ Active geo-replication  | Preview |     ?      |     -      |      -     |
 |モバイルサービス          |    GA   | 2012/08/30 | 2013/06/28 |      -     |
-|+ スケジューラー          | Preview | 2013/06/28 |     -      |      -     |
+|+ スケジューラー          |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
 |ストレージ                |    -    |     -      |     -      |      -     |
 |+ Blob                    |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Queue                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Table                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Geo-Replication         |    GA   |     ?      | 2011/09/16 |      -     |
-|+ RA-GeoRS                | Preview | 2013/12/13 |     -      |      -     |
+|+ RA-GeoRS                |    GA   | 2013/12/13 | 2014/04/03 |      -     |
 |+ Import/Export           | Preview | 2013/11/04 |     -      |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
@@ -60,7 +60,7 @@
 |+ WAAD Premium            |    GA   | 2013/11/21 | 2014/04/03 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
-|スケジューラー            | Preview | 2013/12/12 |     -      |      -     |
+|スケジューラー            |    GA   | 2013/12/12 | 2014/04/03 |      -     |
 |管理ポータル              |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight)         |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
