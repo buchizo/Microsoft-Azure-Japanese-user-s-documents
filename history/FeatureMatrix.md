@@ -49,7 +49,7 @@
 |Traffic Manager           |    GA   | 2011/04/12 | 2013/11/21 |      -     |
 |Cache                     |    -    |     -      |     -      |      -     |
 |+ Shared Caching          |  Close  |     ?      |     ?      |      ?     |
-|+ In-Role Cache           |   GA    | 2012/06/08 |     ?      |      -     |
+|+ In-Role Cache           |    GA   | 2012/06/08 |     ?      |      -     |
 |+ Cache Service           | Preview | 2013/09/04 |     -      |      -     |
 |CDN                       |    GA   | 2009/11/05 | 2010/05/28 |      -     |
 |New CDN (?)               |    GA   |     ?      | 2014/04/03 |      -     |
@@ -58,6 +58,7 @@
 |+ ACS v2                  |    GA   |     ?      | 2011/04/07 |      -     |
 |+ 多要素認証プロバイダ    |    GA   | 2013/03/05 | 2013/09/26 |      -     |
 |+ WAAD Premium            |    GA   | 2013/11/21 | 2014/04/03 |      -     |
+|+ RMS                     | Preview | 2014/04/03 |     -      |      -     |
 |Automation                | Preview | 2014/04/03 |     -      |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
