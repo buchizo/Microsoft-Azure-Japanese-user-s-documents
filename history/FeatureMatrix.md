@@ -12,11 +12,16 @@
 |+ VS Online               |    GA   | 2013/11/13 | 2014/04/03 |      -     |
 |+ Staging                 | Preview | 2014/01/17 |     -      |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
+|+ BizTalk Hybrid Connections| Preview | 2014/05/12 |     -      |      -     |
 |仮想マシン                |    GA   | 2012/06/08 | 2013/04/16 |      -     |
+|+ Internal load balancing | Preview | 2014/05/12 |     -      |      -     |
+|+ Instance-level public IPs| Preview | 2014/05/12 |     -      |      -     |
 |仮想ネットワーク          |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Site to Site VPN        |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Point to Site VPN       |    GA   | 2013/04/27 | 2014/04/03 |      -     |
 |+ Azure Connect           |  Close  | 2010/11/29 |     -      | 2013/06/30 |
+|+ Multipule Site2Site VPN |    GA   |     -      | 2014/05/12 |      -     |
+|+ VNET to VNET            |    GA   |     -      | 2014/05/12 |      -     |
 |ExpressRoute              | Preview | 2014/02/21 |     -      |      -     |
 |SQL データベース          |    GA   | 2009/08/18 | 2010/02/01 |      -     |
 |+ Data Sync               | Preview | 2011/10/14 |     -      |      -     |
@@ -33,7 +38,7 @@
 |+ Table                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Geo-Replication         |    GA   |     ?      | 2011/09/16 |      -     |
 |+ RA-GeoRS                |    GA   | 2013/12/13 | 2014/04/03 |      -     |
-|+ Import/Export           | Preview | 2013/11/04 |     -      |      -     |
+|+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
@@ -50,7 +55,8 @@
 |Cache                     |    -    |     -      |     -      |      -     |
 |+ Shared Caching          |  Close  |     ?      |     ?      |      ?     |
 |+ In-Role Cache           |    GA   | 2012/06/08 |     ?      |      -     |
-|+ Cache Service           | Preview | 2013/09/04 |     -      |      -     |
+|+ Cache Service           |    GA   | 2013/09/04 | 2014/05/12 |      -     |
+|+ Redis Cache             | Preview | 2014/05/12 |     -      |      -     |
 |CDN                       |    GA   | 2009/11/05 | 2010/05/28 |      -     |
 |New CDN (?)               |    GA   |     ?      | 2014/04/03 |      -     |
 |Active Directory          |    GA   |     -      | 2013/04/09 |      -     |
@@ -63,6 +69,11 @@
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
 |スケジューラー            |    GA   | 2013/12/12 | 2014/04/03 |      -     |
+|API Management            | Preview | 2014/05/12 |     -      |      -     |
+|Azure Files               | Preview | 2014/05/12 |     -      |      -     |
+|API Management            | Preview | 2014/05/12 |     -      |      -     |
+|Azure RemoteApp           | Preview | 2014/05/12 |     -      |      -     |
+|IP Reservation for VIPs   |   GA    |     -      | 2014/05/12 |      -     |
 |管理ポータル              |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight)         |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
