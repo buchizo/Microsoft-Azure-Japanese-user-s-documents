@@ -11,7 +11,7 @@
 |+ Web Jobs                | Preview | 2014/01/17 |     -      |      -     |
 |+ VS Online               |    GA   | 2013/11/13 | 2014/04/03 |      -     |
 |+ Staging                 | Preview | 2014/01/17 |     -      |      -     |
-|+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
+|+ Backup and Restore      |    GA   | 2014/02/21 | 2014/06/19 |      -     |
 |+ BizTalk Hybrid Connections| Preview | 2014/05/12 |     -      |      -     |
 |仮想マシン                |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Internal load balancing | Preview | 2014/05/12 |     -      |      -     |
@@ -49,7 +49,7 @@
 |+ 通知ハブ                |    GA   | 2013/01/22 | 2013/08/12 |      -     |
 |BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
 |復旧サービス              |    -    |     -      |     -      |      -     |
-|+  Hyper-V復旧マネージャー|    GA   | 2013/10/22 | 2014/01/17 |      -     |
+|+  Site Recovery (*3)     |    GA   | 2013/10/22 | 2014/01/17 |      -     |
 |+  Backup                 |    GA   | 2012/09/09 | 2013/10/22 |      -     |
 |Traffic Manager           |    GA   | 2011/04/12 | 2013/11/21 |      -     |
 |Cache                     |    -    |     -      |     -      |      -     |
@@ -88,6 +88,8 @@
 |名称変更(*2)              |         |     -      | 2014/04/03 |      -     |
 
 *1 21Vianetが運営
+
 *2 Windows Azure から Microsoft Azure
 
+*3 Hyper-V復旧マネージャー から Site Recovery に名称変更（//build 2014あたりで）
 
