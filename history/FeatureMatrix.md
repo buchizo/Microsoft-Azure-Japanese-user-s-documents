@@ -14,7 +14,7 @@
 |+ Backup and Restore      |    GA   | 2014/02/21 | 2014/06/19 |      -     |
 |+ BizTalk Hybrid Connections| Preview | 2014/05/12 |     -      |      -     |
 |仮想マシン                |    GA   | 2012/06/08 | 2013/04/16 |      -     |
-|+ Internal load balancing | Preview | 2014/05/12 |     -      |      -     |
+|+ Internal load balancing |    GA   | 2014/05/12 | 2014/07/03 |      -     |
 |+ Instance-level public IPs| Preview | 2014/05/12 |     -      |      -     |
 |仮想ネットワーク          |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Site to Site VPN        |    GA   | 2012/06/08 | 2013/04/16 |      -     |
