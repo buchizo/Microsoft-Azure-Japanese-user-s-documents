@@ -57,8 +57,10 @@
 |+ In-Role Cache           |    GA   | 2012/06/08 |     ?      |      -     |
 |+ Cache Service           |    GA   | 2013/09/04 | 2014/05/12 |      -     |
 |+ Redis Cache             | Preview | 2014/05/12 |     -      |      -     |
+|Azure Machine Learning    | Preview | 2014/07/14 |     -      |      -     |
 |CDN                       |    GA   | 2009/11/05 | 2010/05/28 |      -     |
 |New CDN (?)               |    GA   |     ?      | 2014/04/03 |      -     |
+|StorSimple Hybrid Storage |    GA   |     -      | 2014/07/14 |      -     |
 |Active Directory          |    GA   |     -      | 2013/04/09 |      -     |
 |+ ACS v1                  |  Close  | 2009/11/05 |     ?      | 2012/12/20 |
 |+ ACS v2                  |    GA   |     ?      | 2011/04/07 |      -     |
@@ -71,9 +73,9 @@
 |スケジューラー            |    GA   | 2013/12/12 | 2014/04/03 |      -     |
 |API Management            | Preview | 2014/05/12 |     -      |      -     |
 |Azure Files               | Preview | 2014/05/12 |     -      |      -     |
-|API Management            | Preview | 2014/05/12 |     -      |      -     |
 |Azure RemoteApp           | Preview | 2014/05/12 |     -      |      -     |
 |IP Reservation for VIPs   |   GA    |     -      | 2014/05/12 |      -     |
+|API Event Hubs            | Preview | 2014/07/14 |     -      |      -     |
 |管理ポータル              |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight)         |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
@@ -85,6 +87,8 @@
 |ブラジルデータセンター    |    GA   | 2014/04/17 | 2014/06/05 |      -     |
 |+ ブラジル(南) リージョン |    GA   | 2014/04/17 | 2014/06/05 |      -     |
 |中国データセンター (*1)   |    GA   |     -      | 2014/03/26 |      -     |
+|Azure Government Cloud    | Preview | 2014/07/14 |     -      |      -     |
+|Azure In Open (*4)        |         |     -      | 2014/08/01 |      -     |
 |名称変更(*2)              |         |     -      | 2014/04/03 |      -     |
 
 *1 21Vianetが運営
@@ -93,3 +97,4 @@
 
 *3 Hyper-V復旧マネージャー から Site Recovery に名称変更（//build 2014あたりで）
 
+*4 Open Licencing
