@@ -75,7 +75,7 @@
 |Azure Files               | Preview | 2014/05/12 |     -      |      -     |
 |Azure RemoteApp           | Preview | 2014/05/12 |     -      |      -     |
 |IP Reservation for VIPs   |   GA    |     -      | 2014/05/12 |      -     |
-|API Event Hubs            | Preview | 2014/07/14 |     -      |      -     |
+|Event Hubs                | Preview | 2014/07/14 |     -      |      -     |
 |管理ポータル              |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight)         |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
