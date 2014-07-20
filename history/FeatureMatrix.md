@@ -49,8 +49,9 @@
 |+ 通知ハブ                |    GA   | 2013/01/22 | 2013/08/12 |      -     |
 |BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
 |復旧サービス              |    -    |     -      |     -      |      -     |
-|+  Site Recovery (*3)     |    GA   | 2013/10/22 | 2014/01/17 |      -     |
-|+  Backup                 |    GA   | 2012/09/09 | 2013/10/22 |      -     |
+|+ Site Recovery (*3)     |    GA   | 2013/10/22 | 2014/01/17 |      -     |
+|+ Azure Site Recovery to Azure| Preview  | 2014/06/20 | - |      -     |
+|+ Backup                 |    GA   | 2012/09/09 | 2013/10/22 |      -     |
 |Traffic Manager           |    GA   | 2011/04/12 | 2013/11/21 |      -     |
 |Cache                     |    -    |     -      |     -      |      -     |
 |+ Shared Caching          |  Close  |     ?      |     ?      |      ?     |
