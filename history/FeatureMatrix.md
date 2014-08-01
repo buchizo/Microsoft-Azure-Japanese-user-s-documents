@@ -38,6 +38,7 @@
 |+ Table                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Geo-Replication         |    GA   |     ?      | 2011/09/16 |      -     |
 |+ RA-GeoRS                |    GA   | 2013/12/13 | 2014/04/03 |      -     |
+|+ Zone Redundant Storage (ZRS)|    GA   | - | 2014/08/01 |      -     |
 |+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
