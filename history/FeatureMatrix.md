@@ -42,12 +42,14 @@
 |+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
+|+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |Service Bus               |    -    |     -      |     -      |      -     |
 |+ Queue                   |    GA   |     ?      |     ?      |      -     |
 |+ Topic                   |    GA   |     ?      |     ?      |      -     |
 |+ リレー                  |    GA   |     ?      |     ?      |      -     |
 |+ 通知ハブ                |    GA   | 2013/01/22 | 2013/08/12 |      -     |
+|+ Event Hubs              | Preview | 2014/07/14 |     -      |      -     |
 |BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
 |復旧サービス              |    -    |     -      |     -      |      -     |
 |+ Site Recovery (*3)     |    GA   | 2013/10/22 | 2014/01/17 |      -     |
@@ -77,7 +79,8 @@
 |Azure Files               | Preview | 2014/05/12 |     -      |      -     |
 |Azure RemoteApp           | Preview | 2014/05/12 |     -      |      -     |
 |IP Reservation for VIPs   |   GA    |     -      | 2014/05/12 |      -     |
-|Event Hubs                | Preview | 2014/07/14 |     -      |      -     |
+|Azure DocumentDB          | Preview | 2014/08/21 |     -      |      -     |
+|Azure Search              | Preview | 2014/08/21 |     -      |      -     |
 |管理ポータル              |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight)         |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
