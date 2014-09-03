@@ -83,7 +83,7 @@
 |Azure Search              | Preview | 2014/08/21 |     -      |      -     |
 |管理ポータル              |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
-|+ V2(Silverlight)         |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
+|+ V2(Silverlight) *5      |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
 |+ V3(HTML5)               |    GA   | 2012/06/08 |     ?      |      -     |
 |+ V4(Tile)                | Preview | 2014/04/03 |     -      |      -     |
 |アラート                  | Preview | 2013/06/28 |     -      |      -     |
@@ -103,3 +103,7 @@
 *3 Hyper-V復旧マネージャー から Site Recovery に名称変更（//build 2014あたりで）
 
 *4 Open Licencing
+
+*5 windows.azure.com が完全に消えたのは 2014/9/1
+
+*6 Guest OS 1.x は 2014/9/2 で終了
