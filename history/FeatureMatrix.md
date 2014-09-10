@@ -29,6 +29,7 @@
 |+ Premium                 | Preview | 2013/07/23 |     -      |      -     |
 |+ Self-Service recovery   | Preview |     ?      |     -      |      -     |
 |+ Active geo-replication  | Preview |     ?      |     -      |      -     |
+|+ New Tiers               |    GA   |     ?      | 2014/09/10 |      -     |
 |モバイルサービス          |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ スケジューラー          |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
@@ -44,6 +45,9 @@
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
+|+ Live Streaming          | Preview | 2014/09/10 |     -      |      -     |
+|+ PlayReady/AES ClearKey  | Preview | 2014/09/10 |     -      |      -     |
+|+ Indexer                 |    GA   |     -      | 2014/09/10 |      -     |
 |Service Bus               |    -    |     -      |     -      |      -     |
 |+ Queue                   |    GA   |     ?      |     ?      |      -     |
 |+ Topic                   |    GA   |     ?      |     ?      |      -     |
@@ -75,7 +79,7 @@
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
 |スケジューラー            |    GA   | 2013/12/12 | 2014/04/03 |      -     |
-|API Management            | Preview | 2014/05/12 |     -      |      -     |
+|API Management            | 　 GA   | 2014/05/12 | 2014/09/10 |      -     |
 |Azure Files               | Preview | 2014/05/12 |     -      |      -     |
 |Azure RemoteApp           | Preview | 2014/05/12 |     -      |      -     |
 |IP Reservation for VIPs   |   GA    |     -      | 2014/05/12 |      -     |
