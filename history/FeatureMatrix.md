@@ -100,6 +100,7 @@
 |Azure Government Cloud    | Preview | 2014/07/14 |     -      |      -     |
 |Azure In Open (*4)        |         |     -      | 2014/08/01 |      -     |
 |名称変更(*2)              |         |     -      | 2014/04/03 |      -     |
+|SSDインスタンス(D-Series) |    GA   |     -      | 2014/09/22 |      -     |
 
 *1 21Vianetが運営
 
