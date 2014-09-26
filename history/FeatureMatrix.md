@@ -64,7 +64,7 @@
 |+ Shared Caching          |  Close  |     ?      |     ?      |      ?     |
 |+ In-Role Cache           |    GA   | 2012/06/08 |     ?      |      -     |
 |+ Cache Service           |    GA   | 2013/09/04 | 2014/05/12 |      -     |
-|+ Redis Cache             | Preview | 2014/05/12 |     -      |      -     |
+|+ Redis Cache             |    GA   | 2014/05/12 | 2014/09/25 |      -     |
 |Azure Machine Learning    | Preview | 2014/07/14 |     -      |      -     |
 |CDN                       |    GA   | 2009/11/05 | 2010/05/28 |      -     |
 |New CDN (?)               |    GA   |     ?      | 2014/04/03 |      -     |
@@ -83,7 +83,7 @@
 |API Management            | 　 GA   | 2014/05/12 | 2014/09/10 |      -     |
 |Azure Files               | Preview | 2014/05/12 |     -      |      -     |
 |Azure RemoteApp           | Preview | 2014/05/12 |     -      |      -     |
-|IP Reservation for VIPs   |   GA    |     -      | 2014/05/12 |      -     |
+|IP Reservation for VIPs   |    GA   |     -      | 2014/05/12 |      -     |
 |Azure DocumentDB          | Preview | 2014/08/21 |     -      |      -     |
 |Azure Search              | Preview | 2014/08/21 |     -      |      -     |
 |管理ポータル              |    -    |     -      |     -      |      -     |
