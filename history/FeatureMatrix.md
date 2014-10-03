@@ -15,7 +15,7 @@
 |+ BizTalk Hybrid Connections| Preview | 2014/05/12 |     -      |      -     |
 |仮想マシン                |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Internal load balancing |    GA   | 2014/05/12 | 2014/07/03 |      -     |
-|+ Instance-level public IPs| Preview | 2014/05/12 |     -      |      -     |
+|+ Instance-level public IPs|   GA   | 2014/05/12 | 2014/10/03 |      -     |
 |仮想ネットワーク          |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Site to Site VPN        |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Point to Site VPN       |    GA   | 2013/04/27 | 2014/04/03 |      -     |
@@ -30,6 +30,7 @@
 |+ Self-Service recovery   | Preview |     ?      |     -      |      -     |
 |+ Active geo-replication  | Preview |     ?      |     -      |      -     |
 |+ New Tiers               |    GA   |     ?      | 2014/09/10 |      -     |
+|+ Elastic Scale           | Preview | 2014/10/03 |     -      |      -     |
 |モバイルサービス          |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ スケジューラー          |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
@@ -57,7 +58,7 @@
 |BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
 |復旧サービス              |    -    |     -      |     -      |      -     |
 |+ Site Recovery (*3)     |    GA   | 2013/10/22 | 2014/01/17 |      -     |
-|+ Azure Site Recovery to Azure| Preview  | 2014/06/20 | - |      -     |
+|+ Azure Site Recovery to Azure|    GA   | 2014/06/20 | 2014/10/03 |      -     |
 |+ Backup                 |    GA   | 2012/09/09 | 2013/10/22 |      -     |
 |Traffic Manager           |    GA   | 2011/04/12 | 2013/11/21 |      -     |
 |Cache                     |    -    |     -      |     -      |      -     |
@@ -101,6 +102,8 @@
 |Azure In Open (*4)        |         |     -      | 2014/08/01 |      -     |
 |名称変更(*2)              |         |     -      | 2014/04/03 |      -     |
 |SSDインスタンス(D-Series) |    GA   |     -      | 2014/09/22 |      -     |
+|BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
+|MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/03 |      -     |
 
 *1 21Vianetが運営
 
