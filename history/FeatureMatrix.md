@@ -8,11 +8,12 @@
 |+ VM Role                 |  Close  | 2010/11/29 |     -      | 2013/05/31 |
 |Webサイト                 |    GA   | 2012/06/08 | 2013/06/28 |      -     |
 |+ Auto Scale              |    GA   | 2013/06/28 | 2014/04/03 |      -     |
-|+ Web Jobs                | Preview | 2014/01/17 |     -      |      -     |
+|+ Web Jobs                |    GA   | 2014/01/17 | 2014/10/20 |      -     |
 |+ VS Online               |    GA   | 2013/11/13 | 2014/04/03 |      -     |
 |+ Staging                 | Preview | 2014/01/17 |     -      |      -     |
 |+ Backup and Restore      |    GA   | 2014/02/21 | 2014/06/19 |      -     |
 |+ BizTalk Hybrid Connections| Preview | 2014/05/12 |     -      |      -     |
+|+ Migration Assistant     |    GA   |     -      | 2014/10/20 |      -     |
 |仮想マシン                |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Internal load balancing |    GA   | 2014/05/12 | 2014/07/03 |      -     |
 |+ Instance-level public IPs|   GA   | 2014/05/12 | 2014/10/03 |      -     |
