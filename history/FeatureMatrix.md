@@ -45,6 +45,7 @@
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
+|+ Support Apache Storm    | Preview | 2014/10/15 |     -      |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |+ Live Streaming          | Preview | 2014/09/10 |     -      |      -     |
 |+ PlayReady/AES ClearKey  | Preview | 2014/09/10 |     -      |      -     |
