@@ -23,7 +23,7 @@
 |+ Azure Connect           |  Close  | 2010/11/29 |     -      | 2013/06/30 |
 |+ Multipule Site2Site VPN |    GA   |     -      | 2014/05/12 |      -     |
 |+ VNET to VNET            |    GA   |     -      | 2014/05/12 |      -     |
-|ExpressRoute              | Preview | 2014/02/21 |     -      |      -     |
+|ExpressRoute              |    GA   | 2014/02/21 | 2014/05/12 |      -     |
 |SQL データベース          |    GA   | 2009/08/18 | 2010/02/01 |      -     |
 |+ Data Sync               | Preview | 2011/10/14 |     -      |      -     |
 |+ Reporting               |  Close  | 2011/10/14 | 2012/06/08 | 2013/10/31 |
@@ -43,6 +43,7 @@
 |+ RA-GeoRS                |    GA   | 2013/12/13 | 2014/04/03 |      -     |
 |+ Zone Redundant Storage (ZRS)|    GA   | - | 2014/08/01 |      -     |
 |+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
+|+ Premium Storage         | Preview |     ?      |     -      |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
@@ -56,7 +57,7 @@
 |+ Topic                   |    GA   |     ?      |     ?      |      -     |
 |+ リレー                  |    GA   |     ?      |     ?      |      -     |
 |+ 通知ハブ                |    GA   | 2013/01/22 | 2013/08/12 |      -     |
-|+ Event Hubs              | Preview | 2014/07/14 |     -      |      -     |
+|+ Event Hubs              |    GA   | 2014/07/14 | 2014/10/28 |      -     |
 |BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
 |復旧サービス              |    -    |     -      |     -      |      -     |
 |+ Site Recovery (*3)     |    GA   | 2013/10/22 | 2014/01/17 |      -     |
@@ -79,9 +80,10 @@
 |+ AAD Premium             |    GA   | 2013/11/21 | 2014/04/03 |      -     |
 |+ AAD Basic               |    GA   |     -      | 2014/09/16 |      -     |
 |+ RMS                     | Preview | 2014/04/03 |     -      |      -     |
-|Automation                | Preview | 2014/04/03 |     -      |      -     |
+|Automation                |    GA   | 2014/04/03 | 2014/10/28 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
+|New Azure Marketplace     | Preview | 2014/10/28 |     -      |      -     |
 |スケジューラー            |    GA   | 2013/12/12 | 2014/04/03 |      -     |
 |API Management            | 　 GA   | 2014/05/12 | 2014/09/10 |      -     |
 |Azure Files               | Preview | 2014/05/12 |     -      |      -     |
@@ -100,12 +102,17 @@
 |ブラジルデータセンター    |    GA   | 2014/04/17 | 2014/06/05 |      -     |
 |+ ブラジル(南) リージョン |    GA   | 2014/04/17 | 2014/06/05 |      -     |
 |中国データセンター (*1)   |    GA   |     -      | 2014/03/26 |      -     |
+|オーストラリアデータセンター|    GA   |     -      | 2014/10/28 |      -     |
 |Azure Government Cloud    | Preview | 2014/07/14 |     -      |      -     |
 |Azure In Open (*4)        |         |     -      | 2014/08/01 |      -     |
 |名称変更(*2)              |         |     -      | 2014/04/03 |      -     |
 |SSDインスタンス(D-Series) |    GA   |     -      | 2014/09/22 |      -     |
 |BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
-|MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/03 |      -     |
+|MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
+|Azure Operational Insights| Preview | 2014/10/28 |     -      |      -     |
+|Data Factory              | Preview | 2014/10/28 |     -      |      -     |
+|Stream Analytics          | Preview | 2014/10/28 |     -      |      -     |
+|Azure Batch               | Preview | 2014/10/28 |     -      |      -     |
 
 *1 21Vianetが運営
 
