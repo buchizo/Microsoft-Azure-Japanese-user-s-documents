@@ -44,13 +44,13 @@
 |+ RA-GeoRS                |    GA   | 2013/12/13 | 2014/04/03 |      -     |
 |+ Zone Redundant Storage (ZRS)|    GA   | - | 2014/08/01 |      -     |
 |+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
-|+ Premium Storage         | Preview |     ?      |     -      |      -     |
+|+ Premium Storage         | Preview | 2014/12/11 |     -      |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
 |+ Support Apache Storm    | Preview | 2014/10/15 |     -      |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
-|+ Live Streaming          | Preview | 2014/09/10 |     -      |      -     |
+|+ Live Channels           |    GA   | 2014/09/10 | 2014/12/11 |      -     |
 |+ PlayReady/AES ClearKey  | Preview | 2014/09/10 |     -      |      -     |
 |+ Indexer                 |    GA   |     -      | 2014/09/10 |      -     |
 |Service Bus               |    -    |     -      |     -      |      -     |
@@ -81,6 +81,7 @@
 |+ AAD Premium             |    GA   | 2013/11/21 | 2014/04/03 |      -     |
 |+ AAD Basic               |    GA   |     -      | 2014/09/16 |      -     |
 |+ RMS                     | Preview | 2014/04/03 |     -      |      -     |
+|+ App Proxy               |    GA   |     ?      | 2014/12/11 |      -     |
 |Automation                |    GA   | 2014/04/03 | 2014/10/28 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
@@ -88,7 +89,7 @@
 |スケジューラー            |    GA   | 2013/12/12 | 2014/04/03 |      -     |
 |API Management            | 　 GA   | 2014/05/12 | 2014/09/10 |      -     |
 |Azure Files               | Preview | 2014/05/12 |     -      |      -     |
-|Azure RemoteApp           | Preview | 2014/05/12 |     -      |      -     |
+|Azure RemoteApp           |    GA   | 2014/05/12 | 2014/12/11 |      -     |
 |IP Reservation for VIPs   |    GA   |     -      | 2014/05/12 |      -     |
 |Azure DocumentDB          | Preview | 2014/08/21 |     -      |      -     |
 |Azure Search              | Preview | 2014/08/21 |     -      |      -     |
