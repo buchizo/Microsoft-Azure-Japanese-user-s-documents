@@ -109,12 +109,14 @@
 |Azure In Open (*4)        |         |     -      | 2014/08/01 |      -     |
 |名称変更(*2)              |         |     -      | 2014/04/03 |      -     |
 |SSDインスタンス(D-Series) |    GA   |     -      | 2014/09/22 |      -     |
+|ハイパフォーマンス(G-Series) |    GA   |     -      | 2015/01/08 |      -     |
 |BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights| Preview | 2014/10/28 |     -      |      -     |
 |Data Factory              | Preview | 2014/10/28 |     -      |      -     |
 |Stream Analytics          | Preview | 2014/10/28 |     -      |      -     |
 |Azure Batch               | Preview | 2014/10/28 |     -      |      -     |
+|Azure Key Vault           | Preview | 2015/01/08 |     -      |      -     |
 
 *1 21Vianetが運営
 
