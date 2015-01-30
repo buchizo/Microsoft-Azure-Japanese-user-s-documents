@@ -49,9 +49,10 @@
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
 |+ Support Apache Storm    | Preview | 2014/10/15 |     -      |      -     |
+|+ Script Action           |    GA   |     ?      | 2015/01/29 |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |+ Live Channels           |    GA   | 2014/09/10 | 2014/12/11 |      -     |
-|+ PlayReady/AES ClearKey  | Preview | 2014/09/10 |     -      |      -     |
+|+ Content Protection      | Preview | 2014/09/10 | 2015/01/29 |      -     |
 |+ Indexer                 |    GA   |     -      | 2014/09/10 |      -     |
 |Service Bus               |    -    |     -      |     -      |      -     |
 |+ Queue                   |    GA   |     ?      |     ?      |      -     |
@@ -82,6 +83,7 @@
 |+ AAD Basic               |    GA   |     -      | 2014/09/16 |      -     |
 |+ RMS                     | Preview | 2014/04/03 |     -      |      -     |
 |+ App Proxy               |    GA   |     ?      | 2014/12/11 |      -     |
+|+ Connect Health          | Preview | 2015/01/29 |     -      |      -     |
 |Automation                |    GA   | 2014/04/03 | 2014/10/28 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
