@@ -48,11 +48,12 @@
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
-|+ Support Apache Storm    | Preview | 2014/10/15 |     -      |      -     |
+|+ Support Apache Storm    |    GA   | 2014/10/15 | 2015/02/18 |      -     |
 |+ Script Action           |    GA   |     ?      | 2015/01/29 |      -     |
+|+ HDInsight on Linux      | Preview | 2015/02/18 |     -      |      -     |
 |メディアサービス          |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |+ Live Channels           |    GA   | 2014/09/10 | 2014/12/11 |      -     |
-|+ Content Protection      | Preview | 2014/09/10 | 2015/01/29 |      -     |
+|+ Content Protection      |    GA   | 2014/09/10 | 2015/01/29 |      -     |
 |+ Indexer                 |    GA   |     -      | 2014/09/10 |      -     |
 |Service Bus               |    -    |     -      |     -      |      -     |
 |+ Queue                   |    GA   |     ?      |     ?      |      -     |
@@ -62,7 +63,7 @@
 |+ Event Hubs              |    GA   | 2014/07/14 | 2014/10/28 |      -     |
 |BizTalk サービス          |    GA   | 2013/06/04 | 2013/11/21 |      -     |
 |復旧サービス              |    -    |     -      |     -      |      -     |
-|+ Site Recovery (*3)     |    GA   | 2013/10/22 | 2014/01/17 |      -     |
+|+ Site Recovery (*3)      |    GA   | 2013/10/22 | 2014/01/17 |      -     |
 |+ Azure Site Recovery to Azure|    GA   | 2014/06/20 | 2014/10/03 |      -     |
 |+ Backup                 |    GA   | 2012/09/09 | 2013/10/22 |      -     |
 |Traffic Manager           |    GA   | 2011/04/12 | 2013/11/21 |      -     |
@@ -71,7 +72,7 @@
 |+ In-Role Cache           |    GA   | 2012/06/08 |     ?      |      -     |
 |+ Cache Service           |    GA   | 2013/09/04 | 2014/05/12 |      -     |
 |+ Redis Cache             |    GA   | 2014/05/12 | 2014/09/25 |      -     |
-|Azure Machine Learning    | Preview | 2014/07/14 |     -      |      -     |
+|Azure Machine Learning    |    GA   | 2014/07/14 | 2015/02/18 |      -     |
 |CDN                       |    GA   | 2009/11/05 | 2010/05/28 |      -     |
 |New CDN (?)               |    GA   |     ?      | 2014/04/03 |      -     |
 |StorSimple Hybrid Storage |    GA   |     -      | 2014/07/14 |      -     |
@@ -119,6 +120,7 @@
 |Stream Analytics          | Preview | 2014/10/28 |     -      |      -     |
 |Azure Batch               | Preview | 2014/10/28 |     -      |      -     |
 |Azure Key Vault           | Preview | 2015/01/08 |     -      |      -     |
+|Mobile Engagement         | Preview | 2015/02/18 |     -      |      -     |
 
 *1 21Vianetが運営
 
