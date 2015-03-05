@@ -94,7 +94,7 @@
 |Azure RemoteApp           |    GA   | 2014/05/12 | 2014/12/11 |      -     |
 |IP Reservation for VIPs   |    GA   |     -      | 2014/05/12 |      -     |
 |Azure DocumentDB          | Preview | 2014/08/21 |     -      |      -     |
-|Azure Search              | Preview | 2014/08/21 |     -      |      -     |
+|Azure Search              |    GA   | 2014/08/21 | 2015/03/05 |      -     |
 |Management Portal         |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight) *5      |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
