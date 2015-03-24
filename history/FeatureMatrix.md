@@ -6,7 +6,8 @@
 |+ Web Role                |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Worker Role             |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ VM Role                 |  Close  | 2010/11/29 |     -      | 2013/05/31 |
-|Websites                  |    GA   | 2012/06/08 | 2013/06/28 |      -     |
+|App Service               |    GA   |     -      | 2015/03/24 |      -     |
+|Web Apps *7               |    GA   | 2012/06/08 | 2013/06/28 |      -     |
 |+ Auto Scale              |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Web Jobs                |    GA   | 2014/01/17 | 2014/10/20 |      -     |
 |+ VS Online               |    GA   | 2013/11/13 | 2014/04/03 |      -     |
@@ -33,9 +34,12 @@
 |+ New Tiers               |    GA   |     ?      | 2014/09/10 |      -     |
 |+ Elastic Scale           | Preview | 2014/10/03 |     -      |      -     |
 |+ Auditing                |    GA   |     ?      | 2014/11/08 |      -     |
-|Mobile Services           |    GA   | 2012/08/30 | 2013/06/28 |      -     |
+|Mobile Services *7        |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ Scheduler               |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
+|Mobile Apps *7            | Preview | 2015/03/24 |     -      |      -     |
+|Logic Apps                | Preview | 2015/03/24 |     -      |      -     |
+|API Apps                  | Preview | 2015/03/24 |     -      |      -     |
 |Storage                   |    -    |     -      |     -      |      -     |
 |+ Blob                    |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Queue                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
@@ -131,3 +135,5 @@
 *5 windows.azure.com が完全に消えたのは 2014/9/1
 
 *6 Guest OS 1.x は 2014/9/2 で終了
+
+*7 名称変更
