@@ -42,13 +42,14 @@
 |API Apps                  | Preview | 2015/03/24 |     -      |      -     |
 |Storage                   |    -    |     -      |     -      |      -     |
 |+ Blob                    |    GA   | 2009/01/14 | 2010/02/01 |      -     |
+|+ Append Blob             | Preview | 2015/04/13 |     -      |      -     |
 |+ Queue                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Table                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Geo-Replication         |    GA   |     ?      | 2011/09/16 |      -     |
 |+ RA-GeoRS                |    GA   | 2013/12/13 | 2014/04/03 |      -     |
 |+ Zone Redundant Storage (ZRS)|    GA   | - | 2014/08/01 |      -     |
 |+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
-|+ Premium Storage         | Preview | 2014/12/11 |     -      |      -     |
+|+ Premium Storage         |    GA   | 2014/12/11 | 2015/04/16 |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
@@ -114,12 +115,12 @@
 |Azure Government Cloud    |    GA   | 2014/07/14 | 2014/12/09 |      -     |
 |Azure In Open (*4)        |         |     -      | 2014/08/01 |      -     |
 |Name change (*2)          |         |     -      | 2014/04/03 |      -     |
-|SSD Instance (D-Series)   |    GA   |     -      | 2014/09/22 |      -     |
+|SSD Instance (DS-Series)   |    GA   |     -      | 2014/09/22 |      -     |
 |High-performance(G-Series) |    GA   |     -      | 2015/01/08 |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights| Preview | 2014/10/28 |     -      |      -     |
 |Data Factory              | Preview | 2014/10/28 |     -      |      -     |
-|Stream Analytics          | Preview | 2014/10/28 |     -      |      -     |
+|Stream Analytics          |    GA   | 2014/10/28 | 2015/04/16 |      -     |
 |Azure Batch               | Preview | 2014/10/28 |     -      |      -     |
 |Azure Key Vault           | Preview | 2015/01/08 |     -      |      -     |
 |Mobile Engagement         | Preview | 2015/02/18 |     -      |      -     |
