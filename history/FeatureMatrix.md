@@ -7,6 +7,7 @@
 |+ Worker Role             |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ VM Role                 |  Close  | 2010/11/29 |     -      | 2013/05/31 |
 |App Service               |    GA   |     -      | 2015/03/24 |      -     |
+|App Service Environment   | Preview | 2015/04/29 |     -      |      -     |
 |Web Apps *7               |    GA   | 2012/06/08 | 2013/06/28 |      -     |
 |+ Auto Scale              |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Web Jobs                |    GA   | 2014/01/17 | 2014/10/20 |      -     |
@@ -32,8 +33,11 @@
 |+ Self-Service recovery   | Preview |     ?      |     -      |      -     |
 |+ Active geo-replication  | Preview |     ?      |     -      |      -     |
 |+ New Tiers               |    GA   |     ?      | 2014/09/10 |      -     |
-|+ Elastic Scale           | Preview | 2014/10/03 |     -      |      -     |
+|+ Elastic database tools  | Preview | 2014/10/03 |     -      |      -     |
+|+ Elastic Database Pool   | Preview | 2015/04/29 |     -      |      -     |
 |+ Auditing                |    GA   |     ?      | 2014/11/08 |      -     |
+|SQL Data Warehouse        | Preview | 2015/04/29 |     -      |      -     |
+|Azure Data Lake           | Preview | 2015/04/29 |     -      |      -     |
 |Mobile Services *7        |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ Scheduler               |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
@@ -118,12 +122,14 @@
 |SSD Instance (DS-Series)   |    GA   |     -      | 2014/09/22 |      -     |
 |High-performance(G-Series) |    GA   |     -      | 2015/01/08 |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
-|Azure Operational Insights| Preview | 2014/10/28 |     -      |      -     |
+|Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
+|Visual Studio Application Insights| Preview | 2015/04/29 |     -      |      -     |
 |Data Factory              | Preview | 2014/10/28 |     -      |      -     |
 |Stream Analytics          |    GA   | 2014/10/28 | 2015/04/16 |      -     |
 |Azure Batch               | Preview | 2014/10/28 |     -      |      -     |
 |Azure Key Vault           | Preview | 2015/01/08 |     -      |      -     |
 |Mobile Engagement         | Preview | 2015/02/18 |     -      |      -     |
+|Azure Service Fabric      | DevPreview | 2015/04/29 |     -      |      -     |
 
 *1 21Vianetが運営
 
