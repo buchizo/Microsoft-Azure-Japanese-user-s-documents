@@ -93,6 +93,7 @@
 |+ RMS                     | Preview | 2014/04/03 |     -      |      -     |
 |+ App Proxy               |    GA   |     ?      | 2014/12/11 |      -     |
 |+ Connect Health          | Preview | 2015/01/29 |     -      |      -     |
+|+ Cloud APp Discover      |    GA   |     ?      | 2015/05/05 |      -     |
 |Automation                |    GA   | 2014/04/03 | 2014/10/28 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
@@ -130,6 +131,7 @@
 |Azure Key Vault           | Preview | 2015/01/08 |     -      |      -     |
 |Mobile Engagement         | Preview | 2015/02/18 |     -      |      -     |
 |Azure Service Fabric      | DevPreview | 2015/04/29 |     -      |      -     |
+|Azure DNS                 | Preview | 2015/05/05 |     -      |      -     |
 
 *1 21Vianetが運営
 
