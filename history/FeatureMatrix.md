@@ -127,7 +127,7 @@
 |Visual Studio Application Insights| Preview | 2015/04/29 |     -      |      -     |
 |Data Factory              | Preview | 2014/10/28 |     -      |      -     |
 |Stream Analytics          |    GA   | 2014/10/28 | 2015/04/16 |      -     |
-|Azure Batch               | Preview | 2014/10/28 |     -      |      -     |
+|Azure Batch               |    GA   | 2014/10/28 | 2015/07/09 |      -     |
 |Azure Key Vault           |    GA   | 2015/01/08 | 2015/06/24 |      -     |
 |Azure Application Gateway |    GA   |     ?      | 2015/06/24 |      -     |
 |Mobile Engagement         | Preview | 2015/02/18 |     -      |      -     |
