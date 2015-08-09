@@ -125,7 +125,7 @@
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
 |Visual Studio Application Insights| Preview | 2015/04/29 |     -      |      -     |
-|Data Factory              | Preview | 2014/10/28 |     -      |      -     |
+|Data Factory              |    GA   | 2014/10/28 | 2015/08/06 |      -     |
 |Stream Analytics          |    GA   | 2014/10/28 | 2015/04/16 |      -     |
 |Azure Batch               |    GA   | 2014/10/28 | 2015/07/09 |      -     |
 |Azure Key Vault           |    GA   | 2015/01/08 | 2015/06/24 |      -     |
