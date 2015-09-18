@@ -94,7 +94,10 @@
 |+ App Proxy               |    GA   |     ?      | 2014/12/11 |      -     |
 |+ Connect Health          |    GA   | 2015/01/29 | 2015/06/24 |      -     |
 |+ Cloud App Discover      |    GA   |     ?      | 2015/05/05 |      -     |
-|Automation                |    GA   | 2014/04/03 | 2014/10/28 |      -     |
+|+ Azure AD B2C            | Preview | 2015/09/16 |     -      |      -     |
+|+ Azure AD B2B            | Preview | 2015/09/16 |     -      |      -     |
+|Azure Automation          |    GA   | 2014/04/03 | 2014/10/28 |      -     |
+|Azure Automation DSC      | LimitedPreview | 2015/09/17 |     -      |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
 |New Azure Marketplace     | Preview | 2014/10/28 |     -      |      -     |
