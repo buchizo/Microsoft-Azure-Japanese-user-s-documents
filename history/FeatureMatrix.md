@@ -60,7 +60,7 @@
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
 |+ Support Apache Storm    |    GA   | 2014/10/15 | 2015/02/18 |      -     |
 |+ Script Action           |    GA   |     ?      | 2015/01/29 |      -     |
-|+ HDInsight on Linux      | Preview | 2015/02/18 |     -      |      -     |
+|+ HDInsight on Linux      | Preview | 2015/02/18 | 2015/09/29 |      -     |
 |Media Services            |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |+ Live Channels           |    GA   | 2014/09/10 | 2014/12/11 |      -     |
 |+ Content Protection      |    GA   | 2014/09/10 | 2015/01/29 |      -     |
