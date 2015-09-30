@@ -7,7 +7,7 @@
 |+ Worker Role             |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ VM Role                 |  Close  | 2010/11/29 |     -      | 2013/05/31 |
 |App Service               |    GA   |     -      | 2015/03/24 |      -     |
-|App Service Environment   | Preview | 2015/04/29 |     -      |      -     |
+|App Service Environment   |    GA   | 2015/04/29 | 2015/09/29 |      -     |
 |Web Apps *7               |    GA   | 2012/06/08 | 2013/06/28 |      -     |
 |+ Auto Scale              |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Web Jobs                |    GA   | 2014/01/17 | 2014/10/20 |      -     |
@@ -37,7 +37,7 @@
 |+ Elastic Database Pool   | Preview | 2015/04/29 |     -      |      -     |
 |+ Auditing                |    GA   |     ?      | 2014/11/08 |      -     |
 |SQL Data Warehouse        | Preview | 2015/04/29 |     -      |      -     |
-|Azure Data Lake           | Preview | 2015/04/29 |     -      |      -     |
+|Azure Data Lake           |PPreview | 2015/04/29 |     -      |      -     |
 |Mobile Services *7        |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ Scheduler               |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
@@ -54,6 +54,7 @@
 |+ Zone Redundant Storage (ZRS)|    GA   | - | 2014/08/01 |      -     |
 |+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
 |+ Premium Storage         |    GA   | 2014/12/11 | 2015/04/16 |      -     |
+|+ File Storage            |    GA   | 2014/05/12 | 2015/09/29 |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
@@ -103,7 +104,6 @@
 |New Azure Marketplace     | Preview | 2014/10/28 |     -      |      -     |
 |Scheduler                 |    GA   | 2013/12/12 | 2014/04/03 |      -     |
 |API Management            | 　 GA   | 2014/05/12 | 2014/09/10 |      -     |
-|Azure Files               | Preview | 2014/05/12 |     -      |      -     |
 |Azure RemoteApp           |    GA   | 2014/05/12 | 2014/12/11 |      -     |
 |IP Reservation for VIPs   |    GA   |     -      | 2014/05/12 |      -     |
 |Azure DocumentDB          |    GA   | 2014/08/21 | 2015/04/08 |      -     |
@@ -133,9 +133,10 @@
 |Azure Batch               |    GA   | 2014/10/28 | 2015/07/09 |      -     |
 |Azure Key Vault           |    GA   | 2015/01/08 | 2015/06/24 |      -     |
 |Azure Application Gateway |    GA   |     ?      | 2015/06/24 |      -     |
-|Mobile Engagement         | Preview | 2015/02/18 |     -      |      -     |
+|Mobile Engagement         |    GA   | 2015/02/18 | 2015/09/29 |      -     |
 |Azure Service Fabric      | DevPreview | 2015/04/29 |     -      |      -     |
 |Azure DNS                 | Preview | 2015/05/05 |     -      |      -     |
+|Azure IoT Hub             | Preview | 2015/09/29 |     -      |      -     |
 
 *1 21Vianetが運営
 
