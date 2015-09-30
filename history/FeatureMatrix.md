@@ -125,6 +125,7 @@
 |Name change (*2)          |         |     -      | 2014/04/03 |      -     |
 |SSD Instance (DS-Series)   |    GA   |     -      | 2014/09/22 |      -     |
 |High-performance(G-Series) |    GA   |     -      | 2015/01/08 |      -     |
+|GPU-Instance (N-Series)   | Announce| 2015/09/29  |      -     |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
 |Visual Studio Application Insights| Preview | 2015/04/29 |     -      |      -     |
