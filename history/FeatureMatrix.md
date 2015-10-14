@@ -97,6 +97,7 @@
 |+ Cloud App Discover      |    GA   |     ?      | 2015/05/05 |      -     |
 |+ Azure AD B2C            | Preview | 2015/09/16 |     -      |      -     |
 |+ Azure AD B2B            | Preview | 2015/09/16 |     -      |      -     |
+|+ Azure AD Domain Services| Preview | 2015/10/14 |     -      |      -     |
 |Azure Automation          |    GA   | 2014/04/03 | 2014/10/28 |      -     |
 |Azure Automation DSC      | LimitedPreview | 2015/09/17 |     -      |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
@@ -138,6 +139,7 @@
 |Azure Service Fabric      | DevPreview | 2015/04/29 |     -      |      -     |
 |Azure DNS                 | Preview | 2015/05/05 |     -      |      -     |
 |Azure IoT Hub             | Preview | 2015/09/29 |     -      |      -     |
+|Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
 
 *1 21Vianetが運営
 
