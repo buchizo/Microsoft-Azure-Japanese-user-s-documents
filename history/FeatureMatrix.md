@@ -37,7 +37,7 @@
 |+ Elastic Database Pool   | Preview | 2015/04/29 |     -      |      -     |
 |+ Auditing                |    GA   |     ?      | 2014/11/08 |      -     |
 |SQL Data Warehouse        | Preview | 2015/04/29 |     -      |      -     |
-|Azure Data Lake           |PPreview | 2015/04/29 |     -      |      -     |
+|Azure Data Lake *8        | Preview | 2015/10/29 |     -      |      -     |
 |Mobile Services *7        |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ Scheduler               |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
@@ -154,3 +154,5 @@
 *6 Guest OS 1.x は 2014/9/2 で終了
 
 *7 名称変更
+
+*8 Private Previewは2015/04/29
