@@ -41,7 +41,7 @@
 |Azure Data Lake *8        | Preview | 2015/10/29 |     -      |      -     |
 |+ Data Lake Analytics     | Preview | 2015/10/29 |     -      |      -     |
 |+ Data Lake Store         | Preview | 2015/10/29 |     -      |      -     |
-||Mobile Services *7       |    GA   | 2012/08/30 | 2013/06/28 |      -     |
+|Mobile Services *7       |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ Scheduler               |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
 |Mobile Apps *7            | Preview | 2015/03/24 |     -      |      -     |
