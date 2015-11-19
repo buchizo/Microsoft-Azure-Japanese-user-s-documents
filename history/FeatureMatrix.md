@@ -19,6 +19,7 @@
 |Virtual Machines          |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Internal load balancing |    GA   | 2014/05/12 | 2014/07/03 |      -     |
 |+ Instance-level public IPs|   GA   | 2014/05/12 | 2014/10/03 |      -     |
+|+ Scale Set               | Preview | 2015/11/18 |      -     |      -     |
 |Virtual Network           |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Site to Site VPN        |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Point to Site VPN       |    GA   | 2013/04/27 | 2014/04/03 |      -     |
@@ -138,10 +139,11 @@
 |Azure Key Vault           |    GA   | 2015/01/08 | 2015/06/24 |      -     |
 |Azure Application Gateway |    GA   |     ?      | 2015/06/24 |      -     |
 |Mobile Engagement         |    GA   | 2015/02/18 | 2015/09/29 |      -     |
-|Azure Service Fabric      | DevPreview | 2015/04/29 |     -      |      -     |
+|Azure Service Fabric *9   | Preview | 2015/11/18 |     -      |      -     |
 |Azure DNS                 | Preview | 2015/05/05 |     -      |      -     |
 |Azure IoT Hub             | Preview | 2015/09/29 |     -      |      -     |
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
+|DevTest Labs              | Preview | 2015/11/18 |      -     |      -     |
 
 *1 21Vianetが運営
 
@@ -158,3 +160,5 @@
 *7 名称変更
 
 *8 Private Previewは2015/04/29
+
+*9 Dev Preview は 2015/04/29
