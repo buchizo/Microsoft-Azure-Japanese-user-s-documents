@@ -116,7 +116,7 @@
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
 |+ V2(Silverlight) *5      |  Close  | 2010/11/29 |     ?      | 2014/03/31 |
 |+ V3(HTML5)               |    GA   | 2012/06/08 |     ?      |      -     |
-|+ V4(Tile)                | Preview | 2014/04/03 |     -      |      -     |
+|+ V4(Tile)                |    GA   | 2014/04/03 | 2015/12/02 |      -     |
 |Alert                     |    GA   | 2013/06/28 | 2014/09/11 |      -     |
 |Billing Alert             | Preview | 2013/11/04 |     -      |      -     |
 |Japan Data Center         |    GA   |     -      | 2014/02/26 |      -     |
@@ -144,6 +144,8 @@
 |Azure IoT Hub             | Preview | 2015/09/29 |     -      |      -     |
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
 |DevTest Labs              | Preview | 2015/11/18 |      -     |      -     |
+|Container Service         | Preview | 2015/12/02 |      -     |      -     |
+|Security Center           | Preview | 2015/12/02 |      -     |      -     |
 
 *1 21Vianetが運営
 
