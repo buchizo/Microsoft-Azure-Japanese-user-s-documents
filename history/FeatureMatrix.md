@@ -139,6 +139,7 @@
 |Azure Key Vault           |    GA   | 2015/01/08 | 2015/06/24 |      -     |
 |Azure Application Gateway |    GA   |     ?      | 2015/06/24 |      -     |
 |Mobile Engagement         |    GA   | 2015/02/18 | 2015/09/29 |      -     |
+|Azure Data Catalog        | Preview | 2015/07/13 |     -      |      -     |
 |Azure Service Fabric *9   | Preview | 2015/11/18 |     -      |      -     |
 |Azure DNS                 | Preview | 2015/05/05 |     -      |      -     |
 |Azure IoT Hub             | Preview | 2015/09/29 |     -      |      -     |
