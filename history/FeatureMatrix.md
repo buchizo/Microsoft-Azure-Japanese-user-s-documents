@@ -102,7 +102,7 @@
 |+ Azure AD B2B            | Preview | 2015/09/16 |     -      |      -     |
 |+ Azure AD Domain Services| Preview | 2015/10/14 |     -      |      -     |
 |Azure Automation          |    GA   | 2014/04/03 | 2014/10/28 |      -     |
-|Azure Automation DSC      | LimitedPreview | 2015/09/17 |     -      |      -     |
+|Azure Automation DSC      |    GA   | 2015/09/17 | 2016/01/14 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
 |Market Place              |    GA   |     ?      |     ?      |      -     |
 |New Azure Marketplace     | Preview | 2014/10/28 |     -      |      -     |
