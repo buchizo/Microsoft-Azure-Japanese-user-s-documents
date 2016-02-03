@@ -142,7 +142,7 @@
 |Azure Data Catalog        | Preview | 2015/07/13 |     -      |      -     |
 |Azure Service Fabric *9   | Preview | 2015/11/18 |     -      |      -     |
 |Azure DNS                 | Preview | 2015/05/05 |     -      |      -     |
-|Azure IoT Hub             | Preview | 2015/09/29 |     -      |      -     |
+|Azure IoT Hub             |    GA   | 2015/09/29 | 2016/02/03 |      -     |
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
 |DevTest Labs              | Preview | 2015/11/18 |      -     |      -     |
 |Container Service         | Preview | 2015/12/02 |      -     |      -     |
