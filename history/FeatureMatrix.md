@@ -145,7 +145,7 @@
 |Azure IoT Hub             |    GA   | 2015/09/29 | 2016/02/03 |      -     |
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
 |DevTest Labs              | Preview | 2015/11/18 |      -     |      -     |
-|Container Service         | Preview | 2015/12/02 |      -     |      -     |
+|Container Service         | Preview *8 | 2016/02/17 |      -     |      -     |
 |Security Center           | Preview | 2015/12/02 |      -     |      -     |
 
 *1 21Vianetが運営
@@ -161,6 +161,8 @@
 *6 Guest OS 1.x は 2014/9/2 で終了
 
 *7 名称変更
+
+*8 Private Previewは2015/12/02
 
 *8 Private Previewは2015/04/29
 
