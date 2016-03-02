@@ -101,6 +101,8 @@
 |+ Azure AD B2C            | Preview | 2015/09/16 |     -      |      -     |
 |+ Azure AD B2B            | Preview | 2015/09/16 |     -      |      -     |
 |+ Azure AD Domain Services| Preview | 2015/10/14 |     -      |      -     |
+|+ Azure AD Privileged Identity Management | Preview | 2015/05/04 |     -      |      -     |
+|+ Azure AD Identity Protection | Preview | 2016/03/02 |     -      |      -     |
 |Azure Automation          |    GA   | 2014/04/03 | 2014/10/28 |      -     |
 |Azure Automation DSC      |    GA   | 2015/09/17 | 2016/01/14 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
