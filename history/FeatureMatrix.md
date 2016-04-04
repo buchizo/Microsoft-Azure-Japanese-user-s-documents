@@ -7,6 +7,7 @@
 |+ Worker Role             |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ VM Role                 |  Close  | 2010/11/29 |     -      | 2013/05/31 |
 |App Service               |    GA   |     -      | 2015/03/24 |      -     |
+|Azure Functions           | Preview | 2016/04/01 |     -      |      -     |
 |App Service Environment   |    GA   | 2015/04/29 | 2015/09/29 |      -     |
 |Web Apps *7               |    GA   | 2012/06/08 | 2013/06/28 |      -     |
 |+ Auto Scale              |    GA   | 2013/06/28 | 2014/04/03 |      -     |
@@ -19,7 +20,7 @@
 |Virtual Machines          |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Internal load balancing |    GA   | 2014/05/12 | 2014/07/03 |      -     |
 |+ Instance-level public IPs|   GA   | 2014/05/12 | 2014/10/03 |      -     |
-|+ Scale Set               | Preview | 2015/11/18 |      -     |      -     |
+|+ Scale Sets              |    GA   | 2015/11/18 | 2016/04/01 |      -     |
 |Virtual Network           |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Site to Site VPN        |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Point to Site VPN       |    GA   | 2013/04/27 | 2014/04/03 |      -     |
@@ -142,7 +143,7 @@
 |Azure Application Gateway |    GA   |     ?      | 2015/06/24 |      -     |
 |Mobile Engagement         |    GA   | 2015/02/18 | 2015/09/29 |      -     |
 |Azure Data Catalog        |    GA   | 2015/07/13 | 2016/03/29 |      -     |
-|Azure Service Fabric *9   | Preview | 2015/11/18 |     -      |      -     |
+|Azure Service Fabric *9   |    GA   | 2015/11/18 | 2016/04/01 |      -     |
 |Azure DNS                 | Preview | 2015/05/05 |     -      |      -     |
 |Azure IoT Hub             |    GA   | 2015/09/29 | 2016/02/03 |      -     |
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
