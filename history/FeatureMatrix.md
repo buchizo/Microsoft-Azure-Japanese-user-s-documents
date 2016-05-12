@@ -55,6 +55,7 @@
 |+ Table                   |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Geo-Replication         |    GA   |     ?      | 2011/09/16 |      -     |
 |+ RA-GeoRS                |    GA   | 2013/12/13 | 2014/04/03 |      -     |
+|+ Cool Blob Storage       |    GA   |     ?      | 2016/04/29 |      -     |
 |+ Zone Redundant Storage (ZRS)|    GA   | - | 2014/08/01 |      -     |
 |+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
 |+ Premium Storage         |    GA   | 2014/12/11 | 2015/04/16 |      -     |
@@ -125,6 +126,7 @@
 |Japan Data Center         |    GA   |     -      | 2014/02/26 |      -     |
 |Brazil Data Center        |    GA   | 2014/04/17 | 2014/06/05 |      -     |
 |+ Brazil South Region     |    GA   | 2014/04/17 | 2014/06/05 |      -     |
+|Canada Region             |    GA   |     -      | 2016/05/10 |      -     |
 |China Data Center (*1)    |    GA   |     -      | 2014/03/26 |      -     |
 |Australia Data Center     |    GA   |     -      | 2014/10/28 |      -     |
 |Azure Government Cloud    |    GA   | 2014/07/14 | 2014/12/09 |      -     |
