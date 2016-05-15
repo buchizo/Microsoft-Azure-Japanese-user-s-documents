@@ -33,10 +33,10 @@
 |+ Reporting               |  Close  | 2011/10/14 | 2012/06/08 | 2013/10/31 |
 |+ Premium                 | Preview | 2013/07/23 |     -      |      -     |
 |+ Self-Service recovery   | Preview |     ?      |     -      |      -     |
-|+ Active geo-replication  | Preview |     ?      |     -      |      -     |
+|+ Active geo-replication  |    GA   |     ?      |     ?      |      -     |
 |+ New Tiers               |    GA   |     ?      | 2014/09/10 |      -     |
 |+ Elastic database tools  | Preview | 2014/10/03 |     -      |      -     |
-|+ Elastic Database Pool   | Preview | 2015/04/29 |     -      |      -     |
+|+ Elastic Database Pool   |    GA   | 2015/04/29 | 2016/05/11 |      -     |
 |+ Auditing                |    GA   |     ?      | 2014/11/08 |      -     |
 |SQL Data Warehouse        | Preview | 2015/04/29 |     -      |      -     |
 |Azure Data Lake *8        | Preview | 2015/10/29 |     -      |      -     |
