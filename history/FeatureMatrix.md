@@ -65,6 +65,7 @@
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
 |+ Support Apache Storm    |    GA   | 2014/10/15 | 2015/02/18 |      -     |
 |+ Script Action           |    GA   |     ?      | 2015/01/29 |      -     |
+|+ Spark on HDInsight      |    GA   |     ?      | 2016/06/06 |      -     |
 |+ HDInsight on Linux      |    GA   | 2015/02/18 | 2015/09/29 |      -     |
 |Media Services            |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |+ Live Channels           |    GA   | 2014/09/10 | 2014/12/11 |      -     |
@@ -134,6 +135,7 @@
 |Name change (*2)          |         |     -      | 2014/04/03 |      -     |
 |SSD Instance (DS-Series)   |    GA   |     -      | 2014/09/22 |      -     |
 |High-performance(G-Series) |    GA   |     -      | 2015/01/08 |      -     |
+|compute-optimized (F-Series) | Announce | 2016/06/08 |      -     |      -     |
 |GPU-Instance (N-Series)   | Announce| 2015/09/29  |      -     |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
