@@ -38,7 +38,7 @@
 |+ Elastic database tools  | Preview | 2014/10/03 |     -      |      -     |
 |+ Elastic Database Pool   |    GA   | 2015/04/29 | 2016/05/11 |      -     |
 |+ Auditing                |    GA   |     ?      | 2014/11/08 |      -     |
-|SQL Data Warehouse        | Preview | 2015/04/29 |     -      |      -     |
+|SQL Data Warehouse        |    GA   | 2015/04/29 | 2016/07/11 |      -     |
 |Azure Data Lake *8        | Preview | 2015/10/29 |     -      |      -     |
 |+ Data Lake Analytics     | Preview | 2015/10/29 |     -      |      -     |
 |+ Data Lake Store         | Preview | 2015/10/29 |     -      |      -     |
@@ -154,6 +154,7 @@
 |DevTest Labs              | Preview | 2015/11/18 |      -     |      -     |
 |Container Service         |   GA *8 | 2016/02/17 | 2016/04/19 |      -     |
 |Security Center           | Preview | 2015/12/02 |      -     |      -     |
+|Azure Information Protection| Preview | 2016/07/11 |     -      |     -     |
 
 *1 21Vianetが運営
 
