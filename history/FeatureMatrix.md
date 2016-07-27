@@ -153,7 +153,7 @@
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
 |DevTest Labs              | Preview | 2015/11/18 |      -     |      -     |
 |Container Service         |   GA *8 | 2016/02/17 | 2016/04/19 |      -     |
-|Security Center           | Preview | 2015/12/02 |      -     |      -     |
+|Security Center           |    GA   | 2015/12/02 | 2016/07/21 |      -     |
 |Azure Information Protection| Preview | 2016/07/11 |     -      |     -     |
 
 *1 21Vianetが運営
