@@ -46,7 +46,7 @@
 |+ Scheduler               |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
 |Mobile Apps *7            |    GA   | 2015/03/24 | 2015/12/02 |      -     |
-|Logic Apps                | Preview | 2015/03/24 |     -      |      -     |
+|Logic Apps                |    GA   | 2015/03/24 | 2016/07/27 |      -     |
 |API Apps                  | Preview | 2015/03/24 |     -      |      -     |
 |Storage                   |    -    |     -      |     -      |      -     |
 |+ Blob                    |    GA   | 2009/01/14 | 2010/02/01 |      -     |
