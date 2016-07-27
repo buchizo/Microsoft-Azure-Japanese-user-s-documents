@@ -101,7 +101,7 @@
 |+ App Proxy               |    GA   |     ?      | 2014/12/11 |      -     |
 |+ Connect Health          |    GA   | 2015/01/29 | 2015/06/24 |      -     |
 |+ Cloud App Discover      |    GA   |     ?      | 2015/05/05 |      -     |
-|+ Azure AD B2C            | Preview | 2015/09/16 |     -      |      -     |
+|+ Azure AD B2C            |    GA   | 2015/09/16 | 2016/07/26 |      -     |
 |+ Azure AD B2B            | Preview | 2015/09/16 |     -      |      -     |
 |+ Azure AD Domain Services| Preview | 2015/10/14 |     -      |      -     |
 |+ Azure AD Privileged Identity Management | Preview | 2015/05/04 |     -      |      -     |
