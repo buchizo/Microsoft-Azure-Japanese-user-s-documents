@@ -104,8 +104,8 @@
 |+ Azure AD B2C            |    GA   | 2015/09/16 | 2016/07/26 |      -     |
 |+ Azure AD B2B            | Preview | 2015/09/16 |     -      |      -     |
 |+ Azure AD Domain Services| Preview | 2015/10/14 |     -      |      -     |
-|+ Azure AD Privileged Identity Management | Preview | 2015/05/04 |     -      |      -     |
-|+ Azure AD Identity Protection | Preview | 2016/03/02 |     -      |      -     |
+|+ Azure AD Privileged Identity Management | GA | 2015/05/04 | 2016/09/26 |      -     |
+|+ Azure AD Identity Protection | GA  | 2016/03/02 | 2016/09/26 |      -     |
 |Azure Automation          |    GA   | 2014/04/03 | 2014/10/28 |      -     |
 |Azure Automation DSC      |    GA   | 2015/09/17 | 2016/01/14 |      -     |
 |Add-on(Store)             |    GA   |     -      |     ?      |      -     |
@@ -138,6 +138,8 @@
 |High-performance(G-Series) |    GA   |     -      | 2015/01/08 |      -     |
 |compute-optimized (F-Series) | Announce | 2016/06/08 |      -     |      -     |
 |GPU-Instance (N-Series)   | Announce| 2015/09/29  |      -     |      -     |
+|GPU-Instance (H-Series)   |    GA   |    -     | 2016/09/26 |      -     |
+|GPU-Instance (L-Series)   | Announce| 2016/09/26  |      -     |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
 |Visual Studio Application Insights| Preview | 2015/04/29 |     -      |      -     |
@@ -149,13 +151,14 @@
 |Mobile Engagement         |    GA   | 2015/02/18 | 2015/09/29 |      -     |
 |Azure Data Catalog        |    GA   | 2015/07/13 | 2016/03/29 |      -     |
 |Azure Service Fabric *9   |    GA   | 2015/11/18 | 2016/04/01 |      -     |
-|Azure DNS                 | Preview | 2015/05/05 |     -      |      -     |
+|Azure DNS                 |    GA   | 2015/05/05 | 2016/09/26 |      -     |
 |Azure IoT Hub             |    GA   | 2015/09/29 | 2016/02/03 |      -     |
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
 |DevTest Labs              | Preview | 2015/11/18 |      -     |      -     |
 |Container Service         |   GA *8 | 2016/02/17 | 2016/04/19 |      -     |
 |Security Center           |    GA   | 2015/12/02 | 2016/07/21 |      -     |
-|Azure Information Protection| Preview | 2016/07/11 |     -      |     -     |
+|Azure Information Protection|   GA   | 2016/07/11 | 2016/09/26 |     -     |
+|Azure Monitor              | Preview | 2016/09/26 |      -     |      -     |
 
 *1 21Vianetが運営
 
