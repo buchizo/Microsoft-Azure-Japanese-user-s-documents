@@ -97,7 +97,7 @@
 |+ Multi-Factor Authentication|    GA   | 2013/03/05 | 2013/09/26 |      -     |
 |+ AAD Premium             |    GA   | 2013/11/21 | 2014/04/03 |      -     |
 |+ AAD Basic               |    GA   |     -      | 2014/09/16 |      -     |
-|+ RMS                     | Preview | 2014/04/03 |     -      |      -     |
+|+ RMS *10                  | Preview | 2014/04/03 |     -      |      -     |
 |+ App Proxy               |    GA   |     ?      | 2014/12/11 |      -     |
 |+ Connect Health          |    GA   | 2015/01/29 | 2015/06/24 |      -     |
 |+ Cloud App Discover      |    GA   |     ?      | 2015/05/05 |      -     |
@@ -179,3 +179,5 @@
 *8 Private Previewは2015/04/29
 
 *9 Dev Preview は 2015/04/29
+
+*10 Information Protectionに変わりました
