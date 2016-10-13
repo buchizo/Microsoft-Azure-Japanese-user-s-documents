@@ -103,7 +103,7 @@
 |+ Cloud App Discover      |    GA   |     ?      | 2015/05/05 |      -     |
 |+ Azure AD B2C            |    GA   | 2015/09/16 | 2016/07/26 |      -     |
 |+ Azure AD B2B            | Preview | 2015/09/16 |     -      |      -     |
-|+ Azure AD Domain Services| Preview | 2015/10/14 |     -      |      -     |
+|+ Azure AD Domain Services|    GA   | 2015/10/14 | 2016/10/12 |      -     |
 |+ Azure AD Privileged Identity Management | GA | 2015/05/04 | 2016/09/26 |      -     |
 |+ Azure AD Identity Protection | GA  | 2016/03/02 | 2016/09/26 |      -     |
 |Azure Automation          |    GA   | 2014/04/03 | 2014/10/28 |      -     |
