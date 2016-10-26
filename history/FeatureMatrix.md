@@ -159,6 +159,7 @@
 |Security Center           |    GA   | 2015/12/02 | 2016/07/21 |      -     |
 |Azure Information Protection|   GA   | 2016/07/11 | 2016/09/26 |     -     |
 |Azure Monitor              | Preview | 2016/09/26 |      -     |      -     |
+|Azure Analysis Services    | Preview | 2016/10/25 |      -     |      -     |
 
 *1 21Vianetが運営
 
