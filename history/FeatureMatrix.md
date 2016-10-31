@@ -47,7 +47,7 @@
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
 |Mobile Apps *7            |    GA   | 2015/03/24 | 2015/12/02 |      -     |
 |Logic Apps                |    GA   | 2015/03/24 | 2016/07/27 |      -     |
-|API Apps                  | Preview | 2015/03/24 |     -      |      -     |
+|API Apps                  |    GA   | 2015/03/24 | 2016/07/27?|      -     |
 |Storage                   |    -    |     -      |     -      |      -     |
 |+ Blob                    |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ Append Blob             | Preview | 2015/04/13 |     -      |      -     |
@@ -160,6 +160,8 @@
 |Azure Information Protection|   GA   | 2016/07/11 | 2016/09/26 |     -     |
 |Azure Monitor              | Preview | 2016/09/26 |      -     |      -     |
 |Azure Analysis Services    | Preview | 2016/10/25 |      -     |      -     |
+|Microsoft Flow             |   GA   | 2016/04/27 | 2016/11/01 |     -     |
+|PowerApps                  |   GA   | 2015/12/01 | 2016/11/01 |     -     |
 
 *1 21Vianetが運営
 
