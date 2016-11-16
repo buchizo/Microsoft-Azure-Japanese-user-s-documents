@@ -7,7 +7,7 @@
 |+ Worker Role             |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ VM Role                 |  Close  | 2010/11/29 |     -      | 2013/05/31 |
 |App Service               |    GA   |     -      | 2015/03/24 |      -     |
-|Azure Functions           | Preview | 2016/04/01 |     -      |      -     |
+|Azure Functions           |    GA   | 2016/04/01 | 2016/11/15 |      -     |
 |App Service Environment   |    GA   | 2015/04/29 | 2015/09/29 |      -     |
 |Web Apps *7               |    GA   | 2012/06/08 | 2013/06/28 |      -     |
 |+ Auto Scale              |    GA   | 2013/06/28 | 2014/04/03 |      -     |
@@ -39,9 +39,9 @@
 |+ Elastic Database Pool   |    GA   | 2015/04/29 | 2016/05/11 |      -     |
 |+ Auditing                |    GA   |     ?      | 2014/11/08 |      -     |
 |SQL Data Warehouse        |    GA   | 2015/04/29 | 2016/07/11 |      -     |
-|Azure Data Lake *8        | Preview | 2015/10/29 |     -      |      -     |
-|+ Data Lake Analytics     | Preview | 2015/10/29 |     -      |      -     |
-|+ Data Lake Store         | Preview | 2015/10/29 |     -      |      -     |
+|Azure Data Lake *8        |    GA   | 2015/10/29 | 2016/11/16 |      -     |
+|+ Data Lake Analytics     |    GA   | 2015/10/29 | 2016/11/16 |      -     |
+|+ Data Lake Store         |    GA   | 2015/10/29 | 2016/11/16 |      -     |
 |Mobile Services *7        |    GA   | 2012/08/30 | 2013/06/28 |      -     |
 |+ Scheduler               |    GA   | 2013/06/28 | 2014/04/03 |      -     |
 |+ Backup and Restore      | Preview | 2014/02/21 |     -      |      -     |
@@ -67,6 +67,8 @@
 |+ Script Action           |    GA   |     ?      | 2015/01/29 |      -     |
 |+ Spark on HDInsight      |    GA   |     ?      | 2016/06/06 |      -     |
 |+ HDInsight on Linux      |    GA   | 2015/02/18 | 2015/09/29 |      -     |
+|+ R Server on HDInsight   |    GA   |     ?      | 2016/11/16 |      -     |
+|+ Apache Kafka for HDInsight      | Preview | 2016/11/16 |     -    |      -     |
 |Media Services            |    GA   | 2012/04/16 | 2013/01/23 |      -     |
 |+ Live Channels           |    GA   | 2014/09/10 | 2014/12/11 |      -     |
 |+ Content Protection      |    GA   | 2014/09/10 | 2015/01/29 |      -     |
@@ -137,12 +139,12 @@
 |SSD Instance (DS-Series)   |    GA   |     -      | 2014/09/22 |      -     |
 |High-performance(G-Series) |    GA   |     -      | 2015/01/08 |      -     |
 |compute-optimized (F-Series) | Announce | 2016/06/08 |      -     |      -     |
-|GPU-Instance (N-Series)   | Announce| 2015/09/29  |      -     |      -     |
+|GPU-Instance (N-Series)   |    GA   | 2015/09/29  | 2016/12/01 |      -     |
 |GPU-Instance (H-Series)   |    GA   |    -     | 2016/09/26 |      -     |
 |GPU-Instance (L-Series)   | Announce| 2016/09/26  |      -     |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
-|Visual Studio Application Insights| Preview | 2015/04/29 |     -      |      -     |
+|Visual Studio Application Insights|    GA   | 2015/04/29 | 2016/11/16 |      -     |
 |Data Factory              |    GA   | 2014/10/28 | 2015/08/06 |      -     |
 |Stream Analytics          |    GA   | 2014/10/28 | 2015/04/16 |      -     |
 |Azure Batch               |    GA   | 2014/10/28 | 2015/07/09 |      -     |
@@ -162,6 +164,7 @@
 |Azure Analysis Services    | Preview | 2016/10/25 |      -     |      -     |
 |Microsoft Flow             |   GA   | 2016/04/27 | 2016/11/01 |     -     |
 |PowerApps                  |   GA   | 2015/12/01 | 2016/11/01 |     -     |
+|Azure Bot Service          | Preview | 2016/11/15 |      -     |      -     |
 
 *1 21Vianetが運営
 
