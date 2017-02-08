@@ -60,6 +60,7 @@
 |+ Import/Export           |    GA   | 2013/11/04 | 2014/05/12 |      -     |
 |+ Premium Storage         |    GA   | 2014/12/11 | 2015/04/16 |      -     |
 |+ File Storage            |    GA   | 2014/05/12 | 2015/09/29 |      -     |
+|+ Managed Disk            |    GA   |     ?      | 2017/02/08 |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
@@ -165,6 +166,7 @@
 |Microsoft Flow             |   GA   | 2016/04/27 | 2016/11/01 |     -     |
 |PowerApps                  |   GA   | 2015/12/01 | 2016/11/01 |     -     |
 |Azure Bot Service          | Preview | 2016/11/15 |      -     |      -     |
+|Azure IP Advantage         |   GA   |    ?       | 2017/02/08 |      -      |
 
 *1 21Vianetが運営
 
