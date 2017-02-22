@@ -168,6 +168,7 @@
 |PowerApps                  |   GA   | 2015/12/01 | 2016/11/01 |     -     |
 |Azure Bot Service          | Preview | 2016/11/15 |      -     |      -     |
 |Azure IP Advantage         |   GA   |    ?       | 2017/02/08 |      -      |
+|Azure Network Watcher      | Preview | 2017/02/22 |      -     |      -     |
 
 *1 21Vianetが運営
 
