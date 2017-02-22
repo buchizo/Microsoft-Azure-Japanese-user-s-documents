@@ -132,6 +132,7 @@
 |+ Brazil South Region     |    GA   | 2014/04/17 | 2014/06/05 |      -     |
 |UK Region                 |    GA   |     -      | 2016/09/07 |      -     |
 |Canada Region             |    GA   |     -      | 2016/05/10 |      -     |
+|Korea Region              |    GA   |     ?      | 2017/02/22 |      -     |
 |China Data Center (*1)    |    GA   |     -      | 2014/03/26 |      -     |
 |Australia Data Center     |    GA   |     -      | 2014/10/28 |      -     |
 |Azure Government Cloud    |    GA   | 2014/07/14 | 2014/12/09 |      -     |
