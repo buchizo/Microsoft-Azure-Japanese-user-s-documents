@@ -29,7 +29,7 @@
 |+ VNET to VNET            |    GA   |     -      | 2014/05/12 |      -     |
 |ExpressRoute              |    GA   | 2014/02/21 | 2014/05/12 |      -     |
 |SQL Database              |    GA   | 2009/08/18 | 2010/02/01 |      -     |
-|+ Data Sync               | Preview | 2011/10/14 |     -      |      -     |
+|+ Data Sync               |    GA   | 2011/10/14 | 2017/03/01 |      -     |
 |+ Reporting               |  Close  | 2011/10/14 | 2012/06/08 | 2013/10/31 |
 |+ Premium                 | Preview | 2013/07/23 |     -      |      -     |
 |+ Self-Service recovery   | Preview |     ?      |     -      |      -     |
