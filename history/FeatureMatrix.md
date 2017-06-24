@@ -38,6 +38,7 @@
 |+ Elastic database tools  | Preview | 2014/10/03 |     -      |      -     |
 |+ Elastic Database Pool   |    GA   | 2015/04/29 | 2016/05/11 |      -     |
 |+ Auditing                |    GA   |     ?      | 2014/11/08 |      -     |
+|+ Managed Instance        | Private Preview | 2017/06/15 | - |      -     |
 |SQL Data Warehouse        |    GA   | 2015/04/29 | 2016/07/11 |      -     |
 |Azure Data Lake *8        |    GA   | 2015/10/29 | 2016/11/16 |      -     |
 |+ Data Lake Analytics     |    GA   | 2015/10/29 | 2016/11/16 |      -     |
@@ -107,7 +108,7 @@
 |+ Connect Health          |    GA   | 2015/01/29 | 2015/06/24 |      -     |
 |+ Cloud App Discover      |    GA   |     ?      | 2015/05/05 |      -     |
 |+ Azure AD B2C            |    GA   | 2015/09/16 | 2016/07/26 |      -     |
-|+ Azure AD B2B            | Preview | 2015/09/16 |     -      |      -     |
+|+ Azure AD B2B            |    GA   | 2015/09/16 | 2017/04/25 |      -     |
 |+ Azure AD Domain Services|    GA   | 2015/10/14 | 2016/10/12 |      -     |
 |+ Azure AD Privileged Identity Management | GA | 2015/05/04 | 2016/09/26 |      -     |
 |+ Azure AD Identity Protection | GA  | 2016/03/02 | 2016/09/26 |      -     |
@@ -120,7 +121,7 @@
 |API Management            | 　 GA   | 2014/05/12 | 2014/09/10 |      -     |
 |Azure RemoteApp           |    GA   | 2014/05/12 | 2014/12/11 |      -     |
 |IP Reservation for VIPs   |    GA   |     -      | 2014/05/12 |      -     |
-|Azure DocumentDB          |    GA   | 2014/08/21 | 2015/04/08 |      -     |
+|Azure Cosmos DB*11          |    GA   | 2014/08/21 | 2015/04/08 |      -     |
 |Azure Search              |    GA   | 2014/08/21 | 2015/03/05 |      -     |
 |Management Portal         |    -    |     -      |     -      |      -     |
 |+ V1                      |  Close  | 2009/01/14 |     ?      |      ?     |
@@ -135,6 +136,7 @@
 |UK Region                 |    GA   |     -      | 2016/09/07 |      -     |
 |Canada Region             |    GA   |     -      | 2016/05/10 |      -     |
 |Korea Region              |    GA   |     ?      | 2017/02/22 |      -     |
+|Sourth Africa Region      | Announce | 2017/05/18 |  -  |      -     |
 |China Data Center (*1)    |    GA   |     -      | 2014/03/26 |      -     |
 |Australia Data Center     |    GA   |     -      | 2014/10/28 |      -     |
 |Azure Government Cloud    |    GA   | 2014/07/14 | 2014/12/09 |      -     |
@@ -146,12 +148,14 @@
 |GPU-Instance (N-Series)   |    GA   | 2015/09/29  | 2016/12/01 |      -     |
 |HPC High performance (H-Series)   |    GA   |    -     | 2016/09/26 |      -     |
 |Storage-Optimized (L-Series)   | Preview | 2017/03/15  |      -     |      -     |
+|SAP-Optimized (M-Series)   | Announce | 2017/05/17  |      -     |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
 |Visual Studio Application Insights|    GA   | 2015/04/29 | 2016/11/16 |      -     |
 |Data Factory              |    GA   | 2014/10/28 | 2015/08/06 |      -     |
 |Stream Analytics          |    GA   | 2014/10/28 | 2015/04/16 |      -     |
 |Azure Batch               |    GA   | 2014/10/28 | 2015/07/09 |      -     |
+|Azure Batch AI Traininng | Private Preview   | 2017/05/11 | - |      -     |
 |Azure Key Vault           |    GA   | 2015/01/08 | 2015/06/24 |      -     |
 |Azure Application Gateway |    GA   |     ?      | 2015/06/24 |      -     |
 |Mobile Engagement         |    GA   | 2015/02/18 | 2015/09/29 |      -     |
@@ -166,7 +170,7 @@
 |Security Center           |    GA   | 2015/12/02 | 2016/07/21 |      -     |
 |Azure Information Protection|   GA   | 2016/07/11 | 2016/09/26 |     -     |
 |Azure Monitor              |    GA   | 2016/09/26 | 2017/04/15 |      -     |
-|Azure Analysis Services    | Preview | 2016/10/25 |      -     |      -     |
+|Azure Analysis Services    |   GA   | 2016/10/25 | 2017/04/26 |      -     |
 |Microsoft Flow             |   GA   | 2016/04/27 | 2016/11/01 |     -     |
 |PowerApps                  |   GA   | 2015/12/01 | 2016/11/01 |     -     |
 |Azure Bot Service          | Preview | 2016/11/15 |      -     |      -     |
@@ -174,6 +178,7 @@
 |Azure Network Watcher      |   GA   | 2017/02/22 | 2017/04/05 |      -     |
 |Azure Advisor         |   GA   |    ?       | 2017/04/05 |      -      |
 |Azure Time Series Insights | Public Preview | 2017/04/26 | - |      -      |
+|Azure Cloud Shell         |  Preview | 2017/05/11 | - |      -      |
 
 *1 21Vianetが運営
 
@@ -196,3 +201,5 @@
 *9 Dev Preview は 2015/04/29
 
 *10 Information Protectionに変わりました
+
+*11 2017/05/11 (//build)のタイミングでDocumentDB から Cosmos DB に変わりました
