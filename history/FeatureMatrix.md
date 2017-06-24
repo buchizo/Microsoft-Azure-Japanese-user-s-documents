@@ -63,6 +63,7 @@
 |+ Managed Disk            |    GA   |     ?      | 2017/02/08 |      -     |
 |HDInsight                 |    GA   | 2013/03/19 | 2013/10/29 |      -     |
 |+ HDInsight 3.0           |    GA   | 2014/02/21 | 2014/03/18 |      -     |
+|+ HDInsight 3.6           |    GA   |     ?      | 2017/04/15 |      -     |
 |+ Support HBase           |    GA   |     -      | 2014/08/21 |      -     |
 |+ Support Apache Storm    |    GA   | 2014/10/15 | 2015/02/18 |      -     |
 |+ Script Action           |    GA   |     ?      | 2015/01/29 |      -     |
@@ -74,6 +75,7 @@
 |+ Live Channels           |    GA   | 2014/09/10 | 2014/12/11 |      -     |
 |+ Content Protection      |    GA   | 2014/09/10 | 2015/01/29 |      -     |
 |+ Indexer                 |    GA   |     -      | 2014/09/10 |      -     |
+|+ Face Redacto            | Public Preview | 2017/04/26 | - |      -     |
 |Service Bus               |    -    |     -      |     -      |      -     |
 |+ Queue                   |    GA   |     ?      |     ?      |      -     |
 |+ Topic                   |    GA   |     ?      |     ?      |      -     |
@@ -142,8 +144,8 @@
 |High-performance(G-Series) |    GA   |     -      | 2015/01/08 |      -     |
 |compute-optimized (F-Series) | Announce | 2016/06/08 |      -     |      -     |
 |GPU-Instance (N-Series)   |    GA   | 2015/09/29  | 2016/12/01 |      -     |
-|GPU-Instance (H-Series)   |    GA   |    -     | 2016/09/26 |      -     |
-|GPU-Instance (L-Series)   | Announce| 2016/09/26  |      -     |      -     |
+|HPC High performance (H-Series)   |    GA   |    -     | 2016/09/26 |      -     |
+|Storage-Optimized (L-Series)   | Preview | 2017/03/15  |      -     |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
 |Visual Studio Application Insights|    GA   | 2015/04/29 | 2016/11/16 |      -     |
@@ -160,15 +162,18 @@
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
 |DevTest Labs              | Preview | 2015/11/18 |      -     |      -     |
 |Container Service         |   GA *8 | 2016/02/17 | 2016/04/19 |      -     |
+|Container Registry        |   GA  |     ?    | 2017/04/11 |      -     |
 |Security Center           |    GA   | 2015/12/02 | 2016/07/21 |      -     |
 |Azure Information Protection|   GA   | 2016/07/11 | 2016/09/26 |     -     |
-|Azure Monitor              | Preview | 2016/09/26 |      -     |      -     |
+|Azure Monitor              |    GA   | 2016/09/26 | 2017/04/15 |      -     |
 |Azure Analysis Services    | Preview | 2016/10/25 |      -     |      -     |
 |Microsoft Flow             |   GA   | 2016/04/27 | 2016/11/01 |     -     |
 |PowerApps                  |   GA   | 2015/12/01 | 2016/11/01 |     -     |
 |Azure Bot Service          | Preview | 2016/11/15 |      -     |      -     |
 |Azure IP Advantage         |   GA   |    ?       | 2017/02/08 |      -      |
-|Azure Network Watcher      | Preview | 2017/02/22 |      -     |      -     |
+|Azure Network Watcher      |   GA   | 2017/02/22 | 2017/04/05 |      -     |
+|Azure Advisor         |   GA   |    ?       | 2017/04/05 |      -      |
+|Azure Time Series Insights | Public Preview | 2017/04/26 | - |      -      |
 
 *1 21Vianetが運営
 
