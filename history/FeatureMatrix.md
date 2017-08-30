@@ -30,6 +30,7 @@
 |ExpressRoute              |    GA   | 2014/02/21 | 2014/05/12 |      -     |
 |SQL Database              |    GA   | 2009/08/18 | 2010/02/01 |      -     |
 |+ Data Sync               |    GA   | 2011/10/14 | 2017/03/01 |      -     |
+|+ SQL Data Sync (v2)      |    GA   |     -      | 2017/06/?? |      -     |
 |+ Reporting               |  Close  | 2011/10/14 | 2012/06/08 | 2013/10/31 |
 |+ Premium                 | Preview | 2013/07/23 |     -      |      -     |
 |+ Self-Service recovery   | Preview |     ?      |     -      |      -     |
@@ -179,6 +180,10 @@
 |Azure Advisor         |   GA   |    ?       | 2017/04/05 |      -      |
 |Azure Time Series Insights | Public Preview | 2017/04/26 | - |      -      |
 |Azure Cloud Shell         |  Preview | 2017/05/11 | - |      -      |
+|Azure Event Grid         |  Preview | 2017/08/16 | - |      -      |
+|Azure Container Instances |  Preview | 2017/07/26 | - |      -      |
+|Azure Service Health |  Preview | 2017/07/06 | - |      -      |
+|Azure Server Management Tool | Close | 2016/02/19 | - |  2017/06/30 |
 
 *1 21Vianetが運営
 
