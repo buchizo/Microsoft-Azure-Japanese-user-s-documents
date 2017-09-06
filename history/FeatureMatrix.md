@@ -7,6 +7,7 @@
 |+ Worker Role             |    GA   | 2009/01/14 | 2010/02/01 |      -     |
 |+ VM Role                 |  Close  | 2010/11/29 |     -      | 2013/05/31 |
 |App Service               |    GA   |     -      | 2015/03/24 |      -     |
+|App Service on Linux      |    GA   | 2016/10/04 | 2017/09/06 |      -     |
 |Azure Functions           |    GA   | 2016/04/01 | 2016/11/15 |      -     |
 |App Service Environment   |    GA   | 2015/04/29 | 2015/09/29 |      -     |
 |Web Apps *7               |    GA   | 2012/06/08 | 2013/06/28 |      -     |
@@ -17,6 +18,7 @@
 |+ Backup and Restore      |    GA   | 2014/02/21 | 2014/06/19 |      -     |
 |+ BizTalk Hybrid Connections| Preview | 2014/05/12 |     -      |      -     |
 |+ Migration Assistant     |    GA   |     -      | 2014/10/20 |      -     |
+|+ Web Apps for Containers |    GA   |     ?      | 2017/09/06 |      -     |
 |Virtual Machines          |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Internal load balancing |    GA   | 2014/05/12 | 2014/07/03 |      -     |
 |+ Instance-level public IPs|   GA   | 2014/05/12 | 2014/10/03 |      -     |
