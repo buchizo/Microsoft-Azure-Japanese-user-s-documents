@@ -23,12 +23,16 @@
 |+ Internal load balancing |    GA   | 2014/05/12 | 2014/07/03 |      -     |
 |+ Instance-level public IPs|   GA   | 2014/05/12 | 2014/10/03 |      -     |
 |+ Scale Sets              |    GA   | 2015/11/18 | 2016/04/01 |      -     |
+|+ Availability Zones      | Preview | 2017/09/21 |     -      |      -     |
+|+ Reserved VM Instances   | announce | 2017/09/25 |     -      |      -     |
 |Virtual Network           |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Site to Site VPN        |    GA   | 2012/06/08 | 2013/04/16 |      -     |
 |+ Point to Site VPN       |    GA   | 2013/04/27 | 2014/04/03 |      -     |
 |+ Azure Connect           |  Close  | 2010/11/29 |     -      | 2013/06/30 |
 |+ Multipule Site2Site VPN |    GA   |     -      | 2014/05/12 |      -     |
 |+ VNET to VNET            |    GA   |     -      | 2014/05/12 |      -     |
+|+ Global VNet Peering     | Preview | 2017/09/25 |     -      |      -     |
+|+ HA Ports                | Preview | 2017/09/25 |     -      |      -     |
 |ExpressRoute              |    GA   | 2014/02/21 | 2014/05/12 |      -     |
 |SQL Database              |    GA   | 2009/08/18 | 2010/02/01 |      -     |
 |+ Data Sync               |    GA   | 2011/10/14 | 2017/03/01 |      -     |
@@ -97,6 +101,7 @@
 |+ Cache Service           |    GA   | 2013/09/04 | 2014/05/12 |      -     |
 |+ Redis Cache             |    GA   | 2014/05/12 | 2014/09/25 |      -     |
 |Machine Learning          |    GA   | 2014/07/14 | 2015/02/18 |      -     |
+|+ Machine Learning Workbench |    GA   | ? | 2017/09/25 |      -     |
 |CDN                       |    GA   | 2009/11/05 | 2010/05/28 |      -     |
 |New CDN (?)               |    GA   |     ?      | 2014/04/03 |      -     |
 |StorSimple Hybrid Storage |    GA   |     -      | 2014/07/14 |      -     |
@@ -152,6 +157,7 @@
 |HPC High performance (H-Series)   |    GA   |    -     | 2016/09/26 |      -     |
 |Storage-Optimized (L-Series)   | Preview | 2017/03/15  |      -     |      -     |
 |SAP-Optimized (M-Series)   | Announce | 2017/05/17  |      -     |      -     |
+|Burstable (B-Series)   | Preview | 2017/09/14  |      -     |      -     |
 |MS Antimalware for VMs/CS |    GA   |     ?      | 2014/10/28 |      -     |
 |Azure Operational Insights|    GA   | 2014/10/28 | 2015/04/29 |      -     |
 |Visual Studio Application Insights|    GA   | 2015/04/29 | 2016/11/16 |      -     |
@@ -159,11 +165,13 @@
 |Stream Analytics          |    GA   | 2014/10/28 | 2015/04/16 |      -     |
 |Azure Batch               |    GA   | 2014/10/28 | 2015/07/09 |      -     |
 |Azure Batch AI Traininng | Private Preview   | 2017/05/11 | - |      -     |
+|Azure Batch Rendaring Service | GA | 2017/05/11 | 2017/09/25 |      -     |
 |Azure Key Vault           |    GA   | 2015/01/08 | 2015/06/24 |      -     |
 |Azure Application Gateway |    GA   |     ?      | 2015/06/24 |      -     |
 |Mobile Engagement         |    GA   | 2015/02/18 | 2015/09/29 |      -     |
 |Azure Data Catalog        |    GA   | 2015/07/13 | 2016/03/29 |      -     |
 |Azure Service Fabric *9   |    GA   | 2015/11/18 | 2016/04/01 |      -     |
+|+ Service Fabric On Linux |    GA   |     ?      | 2017/09/25 |      -     |
 |Azure DNS                 |    GA   | 2015/05/05 | 2016/09/26 |      -     |
 |Azure IoT Hub             |    GA   | 2015/09/29 | 2016/02/03 |      -     |
 |Azure RMS Document Tracking | GA | 2015/09/16 | 2015/10/14 |      -     |
@@ -186,6 +194,12 @@
 |Azure Container Instances |  Preview | 2017/07/26 | - |      -      |
 |Azure Service Health |  Preview | 2017/07/06 | - |      -      |
 |Azure Server Management Tool | Close | 2016/02/19 | - |  2017/06/30 |
+|Azure Data Box | Limited Preview | 2017/09/25 | - |      -      |
+|Azure File Sync |  Preview | 2017/09/25 | - |      -      |
+|Azure Migrate |  Preview | 2017/09/25 | - |      -      |
+|Azure Policy |  Preview | 2017/09/25 | - |      -      |
+|Azure DDoS Protection |  Preview | 2017/09/25 | - |      -      |
+|Azure Cost Management |  Preview | 2017/09/25 | - |      -      |
 
 *1 21Vianetが運営
 
